@@ -1,0 +1,2 @@
+com/starostka/bank/BankApplicationTests.java
+ com.starostka.bank.BankApplicationTests
